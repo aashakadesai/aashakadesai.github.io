@@ -11,13 +11,13 @@ header{
 }
 nav ul{
     float:left;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Gill Sans';
     padding: 0px;
     list-style: none;
 }
 
 footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Gill Sans';
     padding: 0px;
     list-style: none;
 }
