@@ -6,6 +6,8 @@ nav ul, footer ul {
     background:#FFD700;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
+    width:100%;
+    margin:0px;
     list-style: none;
 }
 nav ul li{
