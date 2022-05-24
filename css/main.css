@@ -4,11 +4,13 @@ body{
 }
 
 header{
+    float:right;
     font-size: 1.9em;
     font-family:'Gill Sans';
     text-align:right;
 }
 nav ul{
+    float:left;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
