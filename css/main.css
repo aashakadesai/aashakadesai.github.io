@@ -10,7 +10,7 @@ nav ul, footer ul {
 nav ul li{
     display: inline;
     margin-right: 20px;
-    text-aligh: right;
+    float: right;
 }
 footer ul li {
     display: inline;
