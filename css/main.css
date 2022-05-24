@@ -3,6 +3,7 @@ body {
     width: 77%;
 }
 nav ul, footer ul {
+    background:#FFD700;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
